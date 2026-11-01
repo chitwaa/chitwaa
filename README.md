@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=chitwaa&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=68)
 Hi, I'm Chitwa!
 I'm an Information Systems & Technology student working towards Full-Stack Software Engineering.
+
 3rd-year student pursuing a Bachelor of Science in Information Systems and Technology at UNILUS.
 Experienced in Full-Stack Web Development, Relational Databases, and Systems Analysis.
 Skilled in building applications using PHP, Laravel, JavaScript, React, Python, Java, and SQL.
